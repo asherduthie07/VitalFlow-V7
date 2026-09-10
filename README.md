@@ -2,7 +2,7 @@
 
 An intelligent **AI-powered Health Monitoring Agent** that compresses medical history and wellness data to reduce processing costs while delivering personalized health insights, workout planning, and daily routine optimization.
 
-🔗 **Live App:** [vitalflow-v6.lovable.app](https://vitalflow-v6.lovable.app/)
+🔗 **Live App:** [vitalflow-v6.lovable.app](https://vitalflow-v6.lovable.app/) ( Version 7 of the app is under maintenance currently ) 
 
 ---
 
